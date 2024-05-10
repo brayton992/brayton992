@@ -1,9 +1,9 @@
 ## Practica de interface 
-Soriano
 
-Se presentara la primera intefaz de practica del tercer semetre de la universidad de guayaquil.
+La primera intefaz de practica del tercer semetre de la universidad de guayaquil.
 
-Imagen de ejemplo del Proyecto
+
+## Imagen de ejemplo del Proyecto
 ![image](https://github.com/brayton992/brayton992/assets/142423609/8ec719c2-d129-4386-9746-c72f82db4bdc)
 
 ## Textfield
